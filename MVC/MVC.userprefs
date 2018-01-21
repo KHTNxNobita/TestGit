@@ -1,5 +1,10 @@
 ﻿<Properties StartupConfiguration="{011182CB-55BF-447B-A0D8-5E6A0D528F39}|">
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MVC/Controllers/HomeController.cs">
+    <Files>
+      <File FileName="MVC/Controllers/HomeController.cs" Line="14" Column="51" />
+      <File FileName="MVC/Views/Home/Index.cshtml" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
